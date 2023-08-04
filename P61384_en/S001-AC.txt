@@ -1,0 +1,11 @@
+---
+problem_id: P61384_en
+submission_id: S001
+compiler_id: G++17
+annotation: ~
+time_in: "2021-04-30 22:52:03"
+time_out: "2021-04-30 22:52:11"
+veredict: AC
+veredict_info: ~
+title: Recursive double factorial
+...

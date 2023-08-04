@@ -1,0 +1,11 @@
+---
+problem_id: P71753_en
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-10-20 23:52:00"
+time_out: "2021-10-20 23:52:09"
+veredict: AC
+veredict_info: ~
+title: Maximum of each sequence
+...

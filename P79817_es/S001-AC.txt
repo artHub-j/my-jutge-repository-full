@@ -1,0 +1,11 @@
+---
+problem_id: P79817_es
+submission_id: S001
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-10-20 23:21:21"
+time_out: "2021-10-20 23:21:29"
+veredict: AC
+veredict_info: ~
+title: Potencias
+...

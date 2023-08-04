@@ -1,0 +1,11 @@
+---
+problem_id: P79860_en
+submission_id: S001
+compiler_id: Clang++17
+annotation: ~
+time_in: "2020-12-27 22:18:19"
+time_out: "2020-12-27 22:18:29"
+veredict: AC
+veredict_info: ~
+title: Bars (2)
+...

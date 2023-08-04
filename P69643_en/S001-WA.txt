@@ -1,0 +1,11 @@
+---
+problem_id: P69643_en
+submission_id: S001
+compiler_id: G++17
+annotation: ~
+time_in: "2020-05-18 16:49:58"
+time_out: "2020-05-18 16:50:07"
+veredict: WA
+veredict_info: ~
+title: Checking parenthesis
+...

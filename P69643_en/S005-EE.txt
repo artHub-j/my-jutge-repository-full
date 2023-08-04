@@ -1,0 +1,11 @@
+---
+problem_id: P69643_en
+submission_id: S005
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-04-25 21:02:04"
+time_out: "2021-04-25 21:02:40"
+veredict: EE
+veredict_info: invalid memory reference
+title: Checking parenthesis
+...

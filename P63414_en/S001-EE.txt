@@ -1,0 +1,11 @@
+---
+problem_id: P63414_en
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2021-11-04 20:14:44"
+time_out: "2021-11-04 20:14:52"
+veredict: EE
+veredict_info: time limit exceeded
+title: Counting frequences
+...

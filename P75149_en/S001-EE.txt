@@ -1,0 +1,11 @@
+---
+problem_id: P75149_en
+submission_id: S001
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-10-20 21:58:57"
+time_out: "2021-10-20 21:59:07"
+veredict: EE
+veredict_info: time limit exceeded
+title: Looking for an a
+...

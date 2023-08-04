@@ -1,0 +1,11 @@
+---
+problem_id: P61473_en
+submission_id: S003
+compiler_id: G++11
+annotation: ~
+time_in: "2020-01-06 23:42:17"
+time_out: "2020-01-06 23:42:24"
+veredict: CE
+veredict_info: ~
+title: Symmetric matrix
+...

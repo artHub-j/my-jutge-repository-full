@@ -1,0 +1,11 @@
+---
+problem_id: P79292_es
+submission_id: S001
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-05-16 12:07:32"
+time_out: "2021-05-16 12:07:44"
+veredict: WA
+veredict_info: ~
+title: Colas de un supermercado
+...

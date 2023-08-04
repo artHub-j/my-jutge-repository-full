@@ -1,0 +1,11 @@
+---
+problem_id: P72484_en
+submission_id: S001
+compiler_id: G++17
+annotation: ~
+time_in: "2021-05-03 20:59:48"
+time_out: "2021-05-03 20:59:55"
+veredict: AC
+veredict_info: ~
+title: Rhombus
+...
