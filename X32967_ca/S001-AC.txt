@@ -1,0 +1,12 @@
+---
+problem_id: X32967_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2021-10-15 19:36:27"
+time_out: "2021-10-15 19:36:35"
+veredict: AC
+veredict_info: ~
+title: "Creaci\xF3 d'una llista doblement encadenada, circular i amb fantasma a partir
+  d'un vector"
+...

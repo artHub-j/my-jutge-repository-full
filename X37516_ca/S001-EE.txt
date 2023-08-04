@@ -1,0 +1,11 @@
+---
+problem_id: X37516_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-22 02:01:25"
+time_out: "2023-01-22 02:01:31"
+veredict: EE
+veredict_info: abnormal program termination
+title: Trie TST. Llista ordenada de totes les claus.
+...

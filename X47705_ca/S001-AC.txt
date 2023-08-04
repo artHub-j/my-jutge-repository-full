@@ -1,0 +1,11 @@
+---
+problem_id: X47705_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2023-05-11 19:50:01"
+time_out: "2023-05-11 19:50:10"
+veredict: AC
+veredict_info: ~
+title: Mida d'un arbre
+...

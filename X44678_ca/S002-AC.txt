@@ -1,0 +1,11 @@
+---
+problem_id: X44678_ca
+submission_id: S002
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2021-05-04 12:40:10"
+time_out: "2021-05-04 12:40:20"
+veredict: AC
+veredict_info: ~
+title: "Conversi\xF3 d'una cua de punts en una pila"
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X36225_ca
+submission_id: S002
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2021-05-10 10:51:59"
+time_out: "2021-05-10 10:52:10"
+veredict: EE
+veredict_info: time limit exceeded
+title: Elimina punts en una cua de punts
+...

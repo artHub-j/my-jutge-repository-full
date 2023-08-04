@@ -1,0 +1,11 @@
+---
+problem_id: X29540_ca
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2022-11-30 20:26:02"
+time_out: "2022-11-30 20:26:08"
+veredict: CE
+veredict_info: ~
+title: Tipus de desequilibri a l'inserir una clau en un BST
+...

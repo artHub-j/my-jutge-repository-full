@@ -1,0 +1,11 @@
+---
+problem_id: X58659_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-09-27 14:30:16"
+time_out: "2022-09-27 14:30:23"
+veredict: AC
+veredict_info: ~
+title: Classe conjunt de parelles d'enters
+...

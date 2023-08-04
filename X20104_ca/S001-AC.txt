@@ -1,0 +1,12 @@
+---
+problem_id: X20104_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-25 02:40:45"
+time_out: "2023-01-25 02:40:52"
+veredict: AC
+veredict_info: ~
+title: "Trie primer fill-seg\xFCent germ\xE0. Freq\xFC\xE8ncia de les longituds de
+  les claus."
+...

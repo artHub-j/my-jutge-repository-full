@@ -1,0 +1,11 @@
+---
+problem_id: X25844_ca
+submission_id: S004
+compiler_id: G++
+annotation: ~
+time_in: "2022-10-24 03:40:09"
+time_out: "2022-10-24 03:40:16"
+veredict: EE
+veredict_info: time limit exceeded
+title: Duplica els elements d'una pila amb sumes parcials
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X31233_ca
+submission_id: S002
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2021-05-10 19:50:39"
+time_out: "2021-05-10 19:50:49"
+veredict: AC
+veredict_info: ~
+title: "Concatenaci\xF3 de piles"
+...

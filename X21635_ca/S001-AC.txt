@@ -1,0 +1,11 @@
+---
+problem_id: X21635_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2022-10-20 00:13:28"
+time_out: "2022-10-20 00:13:35"
+veredict: AC
+veredict_info: ~
+title: Arbre binari. Comprovar la propietat "suma dels fills"
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X26478_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2022-07-06 00:45:38"
+time_out: "2022-07-06 00:45:44"
+veredict: AC
+veredict_info: ~
+title: Compte enrere
+...

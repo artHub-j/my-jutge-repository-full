@@ -1,0 +1,11 @@
+---
+problem_id: X31174_ca
+submission_id: S004
+compiler_id: G++
+annotation: ~
+time_in: "2023-04-23 18:40:43"
+time_out: "2023-04-23 18:40:51"
+veredict: EE
+veredict_info: time limit exceeded
+title: Esborrar 0s i 1s d'una pila
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X21901_ca
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-17 21:56:03"
+time_out: "2023-01-17 21:56:10"
+veredict: AC
+veredict_info: ~
+title: "Expressi\xF3. Representaci\xF3 infixa amb el m\xE0xim nombre de par\xE8ntesis"
+...

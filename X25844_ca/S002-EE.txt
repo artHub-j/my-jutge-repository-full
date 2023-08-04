@@ -1,0 +1,11 @@
+---
+problem_id: X25844_ca
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2022-10-24 03:09:37"
+time_out: "2022-10-24 03:09:45"
+veredict: EE
+veredict_info: invalid memory reference
+title: Duplica els elements d'una pila amb sumes parcials
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X36225_ca
+submission_id: S005
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2021-05-10 12:04:58"
+time_out: "2021-05-10 12:05:09"
+veredict: AC
+veredict_info: ~
+title: Elimina punts en una cua de punts
+...

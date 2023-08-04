@@ -1,0 +1,11 @@
+---
+problem_id: X29544_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2020-05-11 15:36:19"
+time_out: "2020-05-11 15:36:30"
+veredict: AC
+veredict_info: ~
+title: Cerca en una llista de parells d'enters
+...

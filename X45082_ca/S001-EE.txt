@@ -1,0 +1,11 @@
+---
+problem_id: X45082_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2020-12-27 19:31:00"
+time_out: "2020-12-27 19:31:09"
+veredict: EE
+veredict_info: abnormal program termination
+title: Element central d'una llista
+...

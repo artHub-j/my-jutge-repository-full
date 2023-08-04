@@ -1,0 +1,11 @@
+---
+problem_id: X17462_ca
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2022-07-06 00:24:23"
+time_out: "2022-07-06 00:24:30"
+veredict: AC
+veredict_info: ~
+title: "Multiplicaci\xF3 de dos enters."
+...

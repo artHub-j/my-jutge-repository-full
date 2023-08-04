@@ -1,0 +1,11 @@
+---
+problem_id: X33315_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2023-04-21 18:26:33"
+time_out: "2023-04-21 18:26:41"
+veredict: WA
+veredict_info: ~
+title: Compra d'articles d'una llista
+...
