@@ -1,0 +1,11 @@
+---
+problem_id: P13304_en
+submission_id: S002
+compiler_id: G++17
+annotation: ~
+time_in: "2021-05-01 18:49:03"
+time_out: "2021-05-01 18:49:12"
+veredict: PE
+veredict_info: ~
+title: Separated investment with stacks
+...

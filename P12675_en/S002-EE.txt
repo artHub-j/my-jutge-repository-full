@@ -1,0 +1,11 @@
+---
+problem_id: P12675_en
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2021-11-10 15:38:58"
+time_out: "2021-11-10 15:39:04"
+veredict: EE
+veredict_info: invalid memory reference
+title: Common elements
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P32954_en
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2022-10-27 19:06:04"
+time_out: "2022-10-27 19:06:11"
+veredict: AC
+veredict_info: ~
+title: Sort three
+...

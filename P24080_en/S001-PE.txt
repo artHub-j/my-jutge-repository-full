@@ -1,0 +1,11 @@
+---
+problem_id: P24080_en
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2022-01-20 18:09:30"
+time_out: "2022-01-20 18:09:40"
+veredict: PE
+veredict_info: ~
+title: Squares (1)
+...

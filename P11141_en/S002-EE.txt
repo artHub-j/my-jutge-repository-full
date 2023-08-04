@@ -1,0 +1,11 @@
+---
+problem_id: P11141_en
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2022-01-16 00:46:34"
+time_out: "2022-01-16 00:46:40"
+veredict: EE
+veredict_info: invalid memory reference
+title: Students
+...

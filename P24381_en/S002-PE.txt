@@ -1,0 +1,11 @@
+---
+problem_id: P24381_en
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2021-11-29 12:04:04"
+time_out: "2021-11-29 12:04:11"
+veredict: PE
+veredict_info: ~
+title: Print a cross
+...

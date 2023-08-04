@@ -1,0 +1,11 @@
+---
+problem_id: P12828_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2020-01-22 21:20:02"
+time_out: "2020-01-22 21:20:08"
+veredict: CE
+veredict_info: ~
+title: Zeros and ones (1)
+...

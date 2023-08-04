@@ -1,0 +1,11 @@
+---
+problem_id: P12675_en
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2021-11-10 15:32:00"
+time_out: "2021-11-10 15:32:07"
+veredict: EE
+veredict_info: time limit exceeded
+title: Common elements
+...

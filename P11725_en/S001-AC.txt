@@ -1,0 +1,11 @@
+---
+problem_id: P11725_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2020-01-07 00:13:59"
+time_out: "2020-01-07 00:14:05"
+veredict: AC
+veredict_info: ~
+title: Sequential search in an array
+...

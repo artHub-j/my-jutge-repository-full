@@ -1,0 +1,11 @@
+---
+problem_id: P16893_en
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2022-01-07 10:45:40"
+time_out: "2022-01-07 10:45:48"
+veredict: WA
+veredict_info: ~
+title: Is it the solution of a Sudoku?
+...

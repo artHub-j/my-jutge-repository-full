@@ -1,0 +1,11 @@
+---
+problem_id: P23001_en
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2022-07-27 20:51:36"
+time_out: "2022-07-27 20:51:43"
+veredict: AC
+veredict_info: ~
+title: Consecutive repeated words
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P12956_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2020-01-22 21:17:27"
+time_out: "2020-01-22 21:17:33"
+veredict: CE
+veredict_info: ~
+title: Planet Cake
+...

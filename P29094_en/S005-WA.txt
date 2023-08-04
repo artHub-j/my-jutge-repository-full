@@ -1,0 +1,11 @@
+---
+problem_id: P29094_en
+submission_id: S005
+compiler_id: G++
+annotation: ~
+time_in: "2021-11-08 21:22:25"
+time_out: "2021-11-08 21:22:31"
+veredict: WA
+veredict_info: ~
+title: Position of the maximum
+...

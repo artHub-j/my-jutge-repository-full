@@ -1,0 +1,11 @@
+---
+problem_id: P26374_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2020-01-06 23:58:12"
+time_out: "2020-01-06 23:58:18"
+veredict: AC
+veredict_info: ~
+title: Sum of square matrices
+...
