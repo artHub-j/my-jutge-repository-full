@@ -1,0 +1,11 @@
+---
+problem_id: X11899_ca
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-25 23:02:25"
+time_out: "2023-01-25 23:02:32"
+veredict: WA
+veredict_info: ~
+title: "Graf dirigit amb multillistes d'adjac\xE8ncia. Elimina arestes."
+...

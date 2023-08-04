@@ -1,0 +1,11 @@
+---
+problem_id: P89265_en
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2022-01-20 17:58:10"
+time_out: "2022-01-20 17:58:20"
+veredict: AC
+veredict_info: ~
+title: Intervals (3)
+...

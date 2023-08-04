@@ -1,0 +1,11 @@
+---
+problem_id: P84219_en
+submission_id: S004
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-05-19 22:33:53"
+time_out: "2021-05-19 22:34:12"
+veredict: EE
+veredict_info: time limit exceeded
+title: First occurrence
+...

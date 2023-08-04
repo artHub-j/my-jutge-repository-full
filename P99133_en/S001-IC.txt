@@ -1,0 +1,11 @@
+---
+problem_id: P99133_en
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2021-11-05 19:41:00"
+time_out: "2021-11-05 19:41:09"
+veredict: IC
+veredict_info: ~
+title: Reversing words (2)
+...

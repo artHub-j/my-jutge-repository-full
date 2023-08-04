@@ -1,0 +1,11 @@
+---
+problem_id: P84219_en
+submission_id: S007
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-05-19 22:55:13"
+time_out: "2021-05-19 22:55:34"
+veredict: WA
+veredict_info: ~
+title: First occurrence
+...

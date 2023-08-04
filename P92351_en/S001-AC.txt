@@ -1,0 +1,11 @@
+---
+problem_id: P92351_en
+submission_id: S001
+compiler_id: G++17
+annotation: ~
+time_in: "2021-04-25 23:34:40"
+time_out: "2021-04-25 23:34:49"
+veredict: AC
+veredict_info: ~
+title: Integer division and remainder of an integer number by a natural number
+...

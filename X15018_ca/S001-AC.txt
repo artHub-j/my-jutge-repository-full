@@ -1,0 +1,12 @@
+---
+problem_id: X15018_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2021-05-28 17:22:58"
+time_out: "2021-05-28 17:23:06"
+veredict: AC
+veredict_info: ~
+title: "Inversi\xF3 dels elements d'una llista doblement encadenada usant mem\xF2ria
+  din\xE0mica"
+...

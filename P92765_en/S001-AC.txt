@@ -1,0 +1,11 @@
+---
+problem_id: P92765_en
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2022-11-02 20:26:21"
+time_out: "2022-11-02 20:26:30"
+veredict: AC
+veredict_info: ~
+title: Trees - Searching in a binary search tree
+...

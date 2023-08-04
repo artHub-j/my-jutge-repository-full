@@ -1,0 +1,11 @@
+---
+problem_id: P90532_en
+submission_id: S004
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-07-17 15:59:25"
+time_out: "2021-07-17 15:59:32"
+veredict: WA
+veredict_info: ~
+title: Countries and provinces (1)
+...

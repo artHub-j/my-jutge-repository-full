@@ -1,0 +1,11 @@
+---
+problem_id: P90861_en
+submission_id: S001
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-05-16 11:58:40"
+time_out: "2021-05-16 11:58:49"
+veredict: EE
+veredict_info: invalid memory reference
+title: Queues of a supermarket (1)
+...

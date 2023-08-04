@@ -1,0 +1,11 @@
+---
+problem_id: X13115_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2023-05-11 20:07:57"
+time_out: "2023-05-11 20:08:08"
+veredict: AC
+veredict_info: ~
+title: "Posici\xF3 d'un element en un arbre"
+...

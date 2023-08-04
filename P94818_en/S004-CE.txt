@@ -1,0 +1,11 @@
+---
+problem_id: P94818_en
+submission_id: S004
+compiler_id: G++
+annotation: ~
+time_in: "2022-11-01 20:22:35"
+time_out: "2022-11-01 20:22:40"
+veredict: CE
+veredict_info: ~
+title: Inserting in a binary search tree
+...

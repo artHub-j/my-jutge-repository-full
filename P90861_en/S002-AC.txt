@@ -1,0 +1,11 @@
+---
+problem_id: P90861_en
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-05-16 12:06:47"
+time_out: "2021-05-16 12:06:57"
+veredict: AC
+veredict_info: ~
+title: Queues of a supermarket (1)
+...

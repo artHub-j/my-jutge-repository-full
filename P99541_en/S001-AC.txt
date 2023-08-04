@@ -1,0 +1,11 @@
+---
+problem_id: P99541_en
+submission_id: S001
+compiler_id: G++17
+annotation: ~
+time_in: "2021-04-26 16:17:32"
+time_out: "2021-04-26 16:17:39"
+veredict: AC
+veredict_info: ~
+title: Print a line
+...

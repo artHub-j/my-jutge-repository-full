@@ -1,0 +1,11 @@
+---
+problem_id: P87523_en
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-10 01:12:08"
+time_out: "2023-01-10 01:12:16"
+veredict: EE
+veredict_info: time limit exceeded
+title: Hello-bye
+...

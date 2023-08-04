@@ -1,0 +1,11 @@
+---
+problem_id: P92613_en
+submission_id: S005
+compiler_id: G++17
+annotation: ~
+time_in: "2021-04-30 00:56:43"
+time_out: "2021-04-30 00:56:51"
+veredict: AC
+veredict_info: ~
+title: Rounding
+...
