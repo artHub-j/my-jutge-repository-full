@@ -1,4 +1,4 @@
-# jutge-repository-full
+# <img src="https://github.com/artHub-j/my-jutge-repository-full/assets/92806890/1e68acb5-e28c-4013-9372-c0c412c2fddc" width="30"/> jutge-repository-full
 My JUTGE.org solutions
 
 ## Tree
