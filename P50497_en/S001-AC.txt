@@ -1,0 +1,11 @@
+---
+problem_id: P50497_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2020-01-07 00:05:44"
+time_out: "2020-01-07 00:05:51"
+veredict: AC
+veredict_info: ~
+title: Is it a palindrome?
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P48107_en
+submission_id: S001
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-04-25 23:04:31"
+time_out: "2021-04-25 23:04:39"
+veredict: AC
+veredict_info: ~
+title: Integer division and remainder of two natural numbers
+...

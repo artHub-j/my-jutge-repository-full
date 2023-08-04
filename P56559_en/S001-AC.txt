@@ -1,0 +1,11 @@
+---
+problem_id: P56559_en
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2022-01-20 17:56:38"
+time_out: "2022-01-20 17:56:49"
+veredict: AC
+veredict_info: ~
+title: Intervals (2)
+...

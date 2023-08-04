@@ -1,0 +1,11 @@
+---
+problem_id: P56549_en
+submission_id: S004
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-07-17 15:27:24"
+time_out: "2021-07-17 15:27:33"
+veredict: AC
+veredict_info: ~
+title: Changes of base
+...

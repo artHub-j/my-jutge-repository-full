@@ -1,0 +1,11 @@
+---
+problem_id: P45111_en
+submission_id: S003
+compiler_id: G++17
+annotation: ~
+time_in: "2020-05-22 14:05:22"
+time_out: "2020-05-22 14:05:28"
+veredict: AC
+veredict_info: ~
+title: Investment with stack
+...

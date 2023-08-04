@@ -1,0 +1,11 @@
+---
+problem_id: P44243_en
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2021-11-10 14:00:19"
+time_out: "2021-11-10 14:00:27"
+veredict: WA
+veredict_info: ~
+title: Spirals
+...

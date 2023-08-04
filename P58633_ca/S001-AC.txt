@@ -1,0 +1,11 @@
+---
+problem_id: P58633_ca
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2022-01-07 01:00:57"
+time_out: "2022-01-07 01:01:04"
+veredict: AC
+veredict_info: ~
+title: Control C403C
+...

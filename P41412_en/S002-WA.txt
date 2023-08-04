@@ -1,0 +1,11 @@
+---
+problem_id: P41412_en
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2023-02-02 16:34:04"
+time_out: "2023-02-02 16:34:13"
+veredict: WA
+veredict_info: ~
+title: Insertion sort
+...

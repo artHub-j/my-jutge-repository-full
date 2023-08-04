@@ -1,0 +1,11 @@
+---
+problem_id: P52205_en
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-25 02:52:28"
+time_out: "2023-01-25 02:52:36"
+veredict: AC
+veredict_info: ~
+title: Mergesort
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P37469_en
+submission_id: S001
+compiler_id: G++17
+annotation: ~
+time_in: "2021-04-30 00:54:36"
+time_out: "2021-04-30 00:54:43"
+veredict: AC
+veredict_info: ~
+title: Time decomposition (1)
+...

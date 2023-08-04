@@ -1,0 +1,11 @@
+---
+problem_id: P33839_en
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-10-20 23:14:36"
+time_out: "2021-10-20 23:14:45"
+veredict: AC
+veredict_info: ~
+title: Sum of digits
+...

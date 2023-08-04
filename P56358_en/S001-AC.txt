@@ -1,0 +1,11 @@
+---
+problem_id: P56358_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2020-01-03 17:29:50"
+time_out: "2020-01-03 17:29:58"
+veredict: AC
+veredict_info: ~
+title: Add and subtract one second
+...

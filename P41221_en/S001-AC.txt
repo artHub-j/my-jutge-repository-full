@@ -1,0 +1,11 @@
+---
+problem_id: P41221_en
+submission_id: S001
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-04-25 23:02:17"
+time_out: "2021-04-25 23:02:26"
+veredict: AC
+veredict_info: ~
+title: Sum of three integer numbers
+...

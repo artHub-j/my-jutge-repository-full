@@ -1,0 +1,11 @@
+---
+problem_id: P34279_en
+submission_id: S002
+compiler_id: G++17
+annotation: ~
+time_in: "2021-04-26 00:11:45"
+time_out: "2021-04-26 00:11:58"
+veredict: WA
+veredict_info: ~
+title: Add one second
+...

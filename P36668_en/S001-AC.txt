@@ -1,0 +1,11 @@
+---
+problem_id: P36668_en
+submission_id: S001
+compiler_id: G++17
+annotation: ~
+time_in: "2021-04-26 01:27:53"
+time_out: "2021-04-26 01:28:00"
+veredict: AC
+veredict_info: ~
+title: Sum of squares
+...

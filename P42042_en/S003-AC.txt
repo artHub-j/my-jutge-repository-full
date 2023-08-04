@@ -1,0 +1,11 @@
+---
+problem_id: P42042_en
+submission_id: S003
+compiler_id: G++17
+annotation: ~
+time_in: "2021-04-25 23:49:39"
+time_out: "2021-04-25 23:49:46"
+veredict: AC
+veredict_info: ~
+title: Classification of characters (1)
+...
