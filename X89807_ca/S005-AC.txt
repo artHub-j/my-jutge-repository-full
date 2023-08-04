@@ -1,0 +1,12 @@
+---
+problem_id: X89807_ca
+submission_id: S005
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-26 10:40:50"
+time_out: "2023-01-26 10:40:57"
+veredict: AC
+veredict_info: ~
+title: "Graf dirigit amb llistes d'adjac\xE8ncia. Hi ha cam\xED d'un v\xE8rtex a un
+  altre?"
+...

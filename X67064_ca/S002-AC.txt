@@ -1,0 +1,11 @@
+---
+problem_id: X67064_ca
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-10 02:10:36"
+time_out: "2023-01-10 02:10:43"
+veredict: AC
+veredict_info: ~
+title: Segona clau d'un BST
+...

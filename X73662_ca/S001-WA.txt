@@ -1,0 +1,11 @@
+---
+problem_id: X73662_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2021-06-18 00:59:19"
+time_out: "2021-06-18 00:59:27"
+veredict: WA
+veredict_info: ~
+title: "Eliminar nodes amb un fill d'un arbre binari usant mem\xF2ria din\xE0mica"
+...

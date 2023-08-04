@@ -1,0 +1,11 @@
+---
+problem_id: X64830_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2020-05-06 09:26:15"
+time_out: "2020-05-06 09:26:28"
+veredict: AC
+veredict_info: ~
+title: Distribuir els elements d'una llista en dues llistes
+...

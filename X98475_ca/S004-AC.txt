@@ -1,0 +1,11 @@
+---
+problem_id: X98475_ca
+submission_id: S004
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2023-05-11 19:36:00"
+time_out: "2023-05-11 19:36:11"
+veredict: AC
+veredict_info: ~
+title: Suma dels valors d'un arbre
+...

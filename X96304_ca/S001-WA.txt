@@ -1,0 +1,11 @@
+---
+problem_id: X96304_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2020-03-03 12:38:31"
+time_out: "2020-03-03 12:38:38"
+veredict: WA
+veredict_info: ~
+title: Cerca en una pila de punts
+...

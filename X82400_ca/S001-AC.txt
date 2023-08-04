@@ -1,0 +1,11 @@
+---
+problem_id: X82400_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2021-12-21 13:36:31"
+time_out: "2021-12-21 13:36:39"
+veredict: AC
+veredict_info: ~
+title: Elimina majors suma anteriors en una cua
+...

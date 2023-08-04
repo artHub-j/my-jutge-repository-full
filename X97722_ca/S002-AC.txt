@@ -1,0 +1,11 @@
+---
+problem_id: X97722_ca
+submission_id: S002
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2023-04-25 21:16:29"
+time_out: "2023-04-25 21:16:39"
+veredict: AC
+veredict_info: ~
+title: "Nombre de subexpressions amb avaluaci\xF3 igual al par\xE0metre"
+...

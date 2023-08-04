@@ -1,0 +1,11 @@
+---
+problem_id: X81447_ca
+submission_id: S003
+compiler_id: G++
+annotation: ~
+time_in: "2022-12-07 19:18:26"
+time_out: "2022-12-07 19:18:33"
+veredict: EE
+veredict_info: abnormal program termination
+title: "Fusi\xF3 dels elements de dues piles ordenades"
+...

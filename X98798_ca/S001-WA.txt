@@ -1,0 +1,12 @@
+---
+problem_id: X98798_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2021-05-27 16:16:46"
+time_out: "2021-05-27 16:16:54"
+veredict: WA
+veredict_info: ~
+title: "Inserir un element en una llista doblement encadenada i ordenada usant mem\xF2ria
+  din\xE0mica"
+...

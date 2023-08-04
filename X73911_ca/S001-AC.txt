@@ -1,0 +1,11 @@
+---
+problem_id: X73911_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2023-05-11 19:56:34"
+time_out: "2023-05-11 19:56:44"
+veredict: AC
+veredict_info: ~
+title: "M\xE0xim dels valors d'un arbre"
+...

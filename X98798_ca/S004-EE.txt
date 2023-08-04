@@ -1,0 +1,12 @@
+---
+problem_id: X98798_ca
+submission_id: S004
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2021-05-27 20:10:08"
+time_out: "2021-05-27 20:10:15"
+veredict: EE
+veredict_info: invalid memory reference
+title: "Inserir un element en una llista doblement encadenada i ordenada usant mem\xF2ria
+  din\xE0mica"
+...

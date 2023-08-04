@@ -1,0 +1,12 @@
+---
+problem_id: X86759_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2021-06-18 00:43:52"
+time_out: "2021-06-18 00:43:59"
+veredict: AC
+veredict_info: ~
+title: "Comprovar la propietat 'Suma dels fills' en un arbre binari usant mem\xF2ria
+  din\xE0mica"
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X75469_ca
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2022-10-27 18:47:31"
+time_out: "2022-10-27 18:47:38"
+veredict: AC
+veredict_info: ~
+title: Arbre binari. Crea arbre binari complert de n nivells
+...

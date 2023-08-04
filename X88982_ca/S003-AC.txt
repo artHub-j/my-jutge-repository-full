@@ -1,0 +1,11 @@
+---
+problem_id: X88982_ca
+submission_id: S003
+compiler_id: G++
+annotation: ~
+time_in: "2022-10-19 21:02:10"
+time_out: "2022-10-19 21:02:17"
+veredict: AC
+veredict_info: ~
+title: "Arbre general \xE9s un arbre suma?"
+...

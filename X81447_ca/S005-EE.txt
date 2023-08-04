@@ -1,0 +1,11 @@
+---
+problem_id: X81447_ca
+submission_id: S005
+compiler_id: G++
+annotation: ~
+time_in: "2023-02-03 01:38:21"
+time_out: "2023-02-03 01:38:28"
+veredict: EE
+veredict_info: invalid memory reference
+title: "Fusi\xF3 dels elements de dues piles ordenades"
+...

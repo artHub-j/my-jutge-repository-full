@@ -1,0 +1,11 @@
+---
+problem_id: X90767_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2021-10-13 15:30:48"
+time_out: "2021-10-13 15:30:55"
+veredict: EE
+veredict_info: invalid memory reference
+title: "Creaci\xF3 d'una llista a partir d'un vector"
+...

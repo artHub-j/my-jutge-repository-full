@@ -1,0 +1,11 @@
+---
+problem_id: X60152_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2022-07-06 00:01:55"
+time_out: "2022-07-06 00:02:01"
+veredict: WA
+veredict_info: ~
+title: "Prova d'alcohol\xE8mia"
+...
